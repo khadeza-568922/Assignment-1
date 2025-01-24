@@ -8,7 +8,6 @@ nav {
     align-items: center;
     justify-content: space-between;
   margin: 31px 160px;
-
 }
 nav h3{
     font-size: 32px
@@ -46,8 +45,47 @@ nav button{
   border-radius: 8px;
   border: none;
 }
+.title-2,.title3{
+   
+ margin: 20px 160px;
 
+}
+.box-container ,.box-container2{
+    display: flex;
+    gap: 24px;
+    
+    margin:20px 160px;
+    /* box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06); */}
 
+.box{
+   box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+}
+.box1 {
+     background-color:#81B4FC ;
+}
+.box2{
+   background-color:#C6E4D6;  
+}
+.box3{
+    background-color:#F7EBCF ;
+}
+.btn1{
+    background-color: #5490F5; 
+}
+   
+.btn2{background-color: #09A15C;
+    
+}
+.btn3{ background-color:#FFC239 ;
+
+}
+.s2{
+    margin: 30px 160px; 
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    
+}
 
 
 
