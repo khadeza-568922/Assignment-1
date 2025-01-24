@@ -86,6 +86,33 @@ nav button{
     background-repeat: no-repeat;
     
 }
+.table{
+    margin-left: 160px;
+    
+}
+table{
+    border-collapse: collapse;
+    margin-left: 30px;
+}
+td ,th {
+    border: solid #0E0E0E;
+    padding: 10px 36px;
+
+}
+.n{
+    background-color: #C6E4D6;
+}
+.news{
+    display: flex;
+    margin-left: 160px;
+    
+}
+.img{
+    border-radius: 24px;
+    height:300px ;
+    width:400px ;
+    margin-right: 20px;
+}
 
 
 
